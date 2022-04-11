@@ -1,0 +1,40 @@
+.decorate{
+    margin-top: 90px;
+    height: 400px;
+    margin-left: 120px;
+    border-radius: 20px;
+    background-color: rgb(240, 122, 181);
+}
+
+.img{
+    border-radius: 50%;
+    margin-top: 20%;
+    height:170px;
+    margin-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.para{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+#body
+{
+    background-color: whitesmoke;
+}
+
+.text{
+    margin-left: 300px;
+    color: black;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+#button{
+    margin-right: 310px;
+}
